@@ -4,13 +4,12 @@ Scrips utilizados para el proyecto de Analisis de Tweets de Consulta Popular 201
 Jonathan Caiza
 Darwin Guzmán
 # Contenido del repositorio
-° Scrips
+#° Scrips
 - Recolector de tweets
 - Creacion de vistas en couchDB
 - Clasificador
 - Analizador
-#
-° Json
+#° Json
 * json con tweets ya clasificados
  
   
