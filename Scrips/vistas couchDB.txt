@@ -1,0 +1,33 @@
+***************** SCRIP QUITO ***************
+
+function (doc) {
+
+  if(doc.lang =="es" && doc.place.country_code =="EC" && doc.place.name =="Quito" ){
+
+    emit(doc.id, doc.text);
+
+  }
+
+}
+
+***************** SCRIP GUAYAQUIL***************
+function (doc) {
+
+  if(doc.lang =="es" && doc.place.country_code =="EC" && doc.place.name =="Guayaquil" ){
+
+    emit(doc.id, doc.text);
+
+  }
+
+}
+
+***************** SCRIP CUENCA***************
+function (doc) {
+
+  if(doc.lang =="es" && doc.place.country_code =="EC" && doc.place.name =="Cuenca" ){
+
+    emit(doc.id, doc.text);
+
+  }
+
+}
