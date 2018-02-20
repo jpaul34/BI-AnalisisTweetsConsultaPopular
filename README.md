@@ -9,6 +9,7 @@ Darwin Guzmán
 - Creacion de vistas en couchDB
 - Clasificador
 - Analizador
+#
 ° Json
 * json con tweets ya clasificados
  
